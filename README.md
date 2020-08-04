@@ -1,4 +1,4 @@
-# Next Level Week 1 🚀
+# Next Level Week 2 🚀
 
     To run this application you need to execute 'yarn install' in backend and frontend directories. 
     Then in backend directory you need to execute the commands 'yarn knex:migrate', 'yarn:knex seed' 
