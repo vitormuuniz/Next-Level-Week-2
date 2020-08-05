@@ -14,7 +14,7 @@ function TeacherItem() {
         />
         <div>
           <strong>Vitor Muniz</strong>
-          <span>Computação</span>
+          <span>Programação</span>
         </div>
       </header>
 
