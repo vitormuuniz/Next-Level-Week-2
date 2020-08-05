@@ -13,4 +13,4 @@
 #### Classes
     - A route to create a class;
     - A route to list classes;
-        - Filter by subject, day of the week and schedule;
+        - Filtering by subject, day of the week and schedule;
