@@ -6,11 +6,11 @@
 
 ## Features
 
-### Connections
+#### Connections
     - A route to list the total of connections performed;
     - A route to create a new connection;
 
-### Classes
+#### Classes
     - A route to create a class;
     - A route to list classes;
         - Filter by matter, day of the week and schedule;
