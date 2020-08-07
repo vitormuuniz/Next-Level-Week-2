@@ -19,9 +19,8 @@ interface TeacherItemProps {
   teacher: Teacher;
 }
 
-const TeacherItem: React.FunctionComponent<TeacherItemProps> = ({
-  teacher,
-}) => {
+const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
+  
   function createNewConnection() {
     api.post('/connections', {
       user_id: teacher.id,
