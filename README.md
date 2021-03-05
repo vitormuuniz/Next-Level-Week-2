@@ -1,15 +1,5 @@
 # Next Level Week 2 🚀
 
-## Features
-
-#### Connections
-    - A route to list the total of connections performed;
-    - A route to create a new connection;
-
-#### Classes
-    - A route to create a class;
-    - A route to list classes filtering by subject, day of the week and schedule;
-
 ## Run
 
 ##### To run this application you need to execute the following commands in backend and frontend directories: 
